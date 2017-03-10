@@ -1,2 +1,2 @@
 # ITshare-ss
-##A ss-panel theme
+##a ss-panel theme
